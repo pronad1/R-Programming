@@ -24,13 +24,13 @@ R is a leading language for data analysis, statistics, and scientific computing.
 - **Pipelines** using `%>%` streamline transformation logic.
 
 ## Popular Tools and Packages
-- `tidyverse` – collection of packages for data manipulation, tidying, and visualization.
-- `ggplot2` – grammar-of-graphics data visualization framework.
-- `dplyr` – fast and readable data transformation.
-- `tidyr` – tidy data reshaping and cleaning.
-- `shiny` – interactive web applications from R.
-- `rmarkdown` – dynamic documents and reports.
-- `caret` / `tidymodels` – modeling and machine learning workflows.
+- `tidyverse` â€“ collection of packages for data manipulation, tidying, and visualization.
+- `ggplot2` â€“ grammar-of-graphics data visualization framework.
+- `dplyr` â€“ fast and readable data transformation.
+- `tidyr` â€“ tidy data reshaping and cleaning.
+- `shiny` â€“ interactive web applications from R.
+- `rmarkdown` â€“ dynamic documents and reports.
+- `caret` / `tidymodels` â€“ modeling and machine learning workflows.
 
 ## Best Practices
 - Keep data tidy and well-structured.
@@ -51,6 +51,3 @@ R is a leading language for data analysis, statistics, and scientific computing.
 - Machine learning and predictive modeling
 - Data visualization and dashboards
 - Research reproducibility and reporting
-
-## Final Notes
-R is a powerful choice for anyone working with data. Its combination of statistical depth, visualization capabilities, and reproducible workflows makes it a top option for analysts, researchers, and data professionals.
